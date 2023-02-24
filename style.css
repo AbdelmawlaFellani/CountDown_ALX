@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  color: white;
+  text-align: center;
+  font-family: "Manrope";
+
+  background-color: #040c18;
+}
+.container{
+    margin: 10rem;
+}
+.title {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 87px;
+  background: linear-gradient(91.39deg, #1762a7 20.93%, #24dc20 111.31%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.countdown{
+    padding-top: 2.5em;
+    font-size: 32px;
+    font-weight: 700;
+}
