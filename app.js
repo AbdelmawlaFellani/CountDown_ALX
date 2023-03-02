@@ -1,5 +1,5 @@
 //Constants
-const end_date = new Date("02/20/2024"); // after 1 year of the beginning date of the Program 
+const end_date = new Date("03/29/2024"); // after 1 year of the beginning date of the Program 
 const _MS_PER_MONTHS = 1000 * 60 * 60 * 24 * 30;
 const _MS_PER_DAY = 1000 * 60 * 60 * 24;
 const _MS_PER_HRS = 1000 * 60 * 60;
